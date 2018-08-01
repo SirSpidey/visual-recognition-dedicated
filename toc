@@ -25,7 +25,7 @@ Visual Recognition Dedicated
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
-    [API reference](https://console.ng.bluemix.net/apidocs/762-visual-recognition-dedicated)
+    [API reference](https://console.bluemix.net/apidocs/watson-vision-combined)
     language-support.md
     information-security.md
 

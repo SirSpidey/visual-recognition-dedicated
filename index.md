@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2018
-lastupdated: "2018-04-10"
+lastupdated: "2018-07-31"
 
 ---
 
@@ -117,7 +117,7 @@ The endpoint used in this tutorial might not be your service endpoint. Check you
 You have a basic understanding of how to use the built-in default classifier with {{site.data.keyword.visualrecognitionshort}} Dedicated. Now dive deeper:
 
 - Learn more about how to [build a custom classifier](/docs/services/visual-recognition-dedicated/tutorial-custom-classifier.html).
-- Read about the API in the [API reference ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.ng.bluemix.net/apidocs/762-visual-recognition-dedicated){: new_window}.
+- Read about the API in the [API reference ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.{DomainName}/apidocs/watson-vision-combined){: new_window}.
 
 ### Attributions
 {: #attributions}
