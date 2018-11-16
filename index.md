@@ -30,7 +30,7 @@ This tutorial guides you through how to use some built-in classifiers in {{site.
 You create your service instance of the {{site.data.keyword.visualrecognitionshort}} Dedicated service through {{site.data.keyword.Bluemix}}, so you need a free {{site.data.keyword.Bluemix_dedicated_notm}} account to get started.
 
 1.  Log into your {{site.data.keyword.Bluemix_dedicated_notm}} account.
-1.  After you log in, create your service instance from the [{{site.data.keyword.visualrecognitionshort}} ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.{DomainName}/catalog/services/visual-recognition/){: new_window} page in the Catalog.
+1.  After you log in, create your service instance from the [{{site.data.keyword.visualrecognitionshort}} ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://{DomainName}/catalog/services/visual-recognition/){: new_window} page in the Catalog.
 1.  The API uses HTTP basic authentication. If you already know your credentials for the {{site.data.keyword.visualrecognitionshort}} service, skip this step. For details about how to find your service credentials, see [Service credentials for Watson services ![External link icon](../../icons/launch-glyph.svg "External link icon")](/docs/services/watson/getting-started-credentials.html#getting-credentials-manually){: new_window}.
 
     **Note**: Service credentials (`username` and `password`) are different from your {{site.data.keyword.Bluemix_dedicated_notm}} account username and password.
@@ -117,7 +117,7 @@ The endpoint used in this tutorial might not be your service endpoint. Check you
 You have a basic understanding of how to use the built-in default classifier with {{site.data.keyword.visualrecognitionshort}} Dedicated. Now dive deeper:
 
 - Learn more about how to [build a custom classifier](/docs/services/visual-recognition-dedicated/tutorial-custom-classifier.html).
-- Read about the API in the [API reference ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://console.{DomainName}/apidocs/watson-vision-combined){: new_window}.
+- Read about the API in the [API reference ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://{DomainName}/apidocs/watson-vision-combined){: new_window}.
 
 ### Attributions
 {: #attributions}
